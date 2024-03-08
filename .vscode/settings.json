@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["OPENAI"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": false
+}
